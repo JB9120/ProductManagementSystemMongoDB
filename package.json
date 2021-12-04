@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaitanya-chorawala/ProductManagementSystemMongoDB.git"
+    "url": "git+https://github.com/JB9120/ProductManagementSystemMongoDB.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaitanya-chorawala/ProductManagementSystemMongoDB/issues"
+    "url": "https://github.com/JB9120/ProductManagementSystemMongoDB/issues"
   },
-  "homepage": "https://github.com/chaitanya-chorawala/ProductManagementSystemMongoDB#readme",
+  "homepage": "https://github.com/JB9120/ProductManagementSystemMongoDB#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
